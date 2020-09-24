@@ -34,7 +34,7 @@ The following input example represents the availability of three members:
 
 ## Constraints
 
-- 1 <= ***N*** <= 500
+- 1 <= ***N*** <= 100
 - 0 <= ***I*** <= 6
 
 ## Output Format
