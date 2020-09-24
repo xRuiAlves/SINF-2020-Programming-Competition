@@ -1,0 +1,14 @@
+{
+  "name": "sinf-2020-competition",
+  "version": "1.0.0",
+  "description": "Collection of problems developed for the 2020 edition of [SINF](https://www.sinf.pt/), a tech event hosted in Porto for the computer engineering student (and others) community.",
+  "main": "utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.9.0"
+  }
+}
