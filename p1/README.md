@@ -20,18 +20,6 @@ There are ***N*** subsequent lines, where each line indicates the identifier ***
 
 A day identifier ***I*** consists in single digit, where **0** represents **Monday**, **1** represents **Tuesday**, ..., and **6** represents **Sunday**.
 
-The following input example represents the availability of three members:
-
-```
-6
-0
-5
-1
-1
-2
-5
-```
-
 ## Constraints
 
 - 1 <= ***N*** <= 100
@@ -40,9 +28,3 @@ The following input example represents the availability of three members:
 ## Output Format
 
 The output should be a single digit, representing the identifier of the day with the most member availability.
-
-Example:
-
-```
-1
-```
