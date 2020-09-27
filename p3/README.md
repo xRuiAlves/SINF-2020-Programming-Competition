@@ -10,7 +10,7 @@ However, it looks like the hackers weren't very smart and didn't follow the subm
 
 - Start with a capital letter;
 - Have at least two distinct words (separated by at least one space);
-- Include at last one vowel;
+- Include at least one vowel;
 - Not include any digits.
 
 Filtering the valid titles by hand would be a nightmare, so it is up to you to automate this process!
