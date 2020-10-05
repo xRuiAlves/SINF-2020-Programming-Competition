@@ -19,11 +19,12 @@ Filtering the valid titles by hand would be a nightmare, so it is up to you to a
 
 The first line indicates the number ***N*** of titles to validate.
 
-There are ***N*** subsequent lines, where each line features a single title to validate.
+There are ***N*** subsequent lines, where each line features a single title ***Ti*** to validate.
 
 ## Constraints
 
 - 3 <= ***N*** <= 10000
+- 1 <= ***Ti.length*** <= 40
 
 ## Output Format
 

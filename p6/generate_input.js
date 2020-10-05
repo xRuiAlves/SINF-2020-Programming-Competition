@@ -1,6 +1,6 @@
 const { generateRandomInt, shuffleArray } = require("../utils");
 
-const N = generateRandomInt(2, 31);
+const N = generateRandomInt(2, 35);
 console.info(N);
 
 const seats = [];

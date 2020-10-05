@@ -6,7 +6,7 @@ In order to provide good content throughout the event, it's important to group l
 
 After selecting all valid lecture submissions by speakers, the next step is to group them by theme, to make sure that different tech-related themes are covered throughout the event.
 
-One of the organization team members was responsible for analyzing the themes to do this separation. However, that member didn't do a very good job and decided to group them by pairs. An example:
+One of the organization team members was responsible for analyzing the themes and group them. However, that member didn't do a very good job and decided to group them in pairs. An example:
 
 ```
 "My first CTF" and "Intro to Ethical Hacking"
@@ -22,7 +22,7 @@ To get a grasp of how "fresh" their options are, the organization team wants to 
 
 The first line indicates the number ***N*** of theme pairs.
 
-There are ***2N*** subsequent lines, where each line features a single lecture title. Two subsequent and non-overlapping lines represent a pair, *i.e.*:
+There are ***2N*** subsequent lines, where each line features a single lecture title string ***Ti***. Two subsequent and non-overlapping lines represent a pair, *i.e.*:
 
 - Lines 1 and 2 represent a pair;
 - Lines 3 and 4 represent another pair;
@@ -31,6 +31,7 @@ There are ***2N*** subsequent lines, where each line features a single lecture t
 ## Constraints
 
 - 3 <= ***N*** <= 5000
+- 1 <= ***Ti.length*** <= 45
 
 ## Output Format
 

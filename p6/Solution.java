@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 class Solution {
-    private static final int NUM_SEATS = 17;
+    private static final int NUM_SEATS = 35;
     private static final Map<Long, Long> cache = new HashMap<>();
 
     public static void main(String[] args) {
